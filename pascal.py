@@ -15,5 +15,3 @@ def generate(numRows):
             row_result.append(1)
             result.append(row_result)
         return result
-        
-print(generate(5))
